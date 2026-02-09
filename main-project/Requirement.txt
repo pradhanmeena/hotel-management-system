@@ -1,0 +1,13 @@
+before run to the project you need to do some changes:
+
+1-->database_details: if you want to use this project change these details according to your database that you have created on your system:
+	host=""
+	user=""
+	password=""
+	database="" 
+
+2-->table: in next step you need just open and run the file by the name of table.py(these file create all require tables)
+
+3-->login_page.py: change only image folder path inside mention files and given lines according to user's system(line[27,111,255,260]).
+	
+
