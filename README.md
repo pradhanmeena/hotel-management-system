@@ -15,11 +15,11 @@ Overall, this system improves operational efficiency, reduces errors, and simpli
 <br><br>`file: database_details.py`
    ```
    class DatabaseDetails:
-    def __init__(self):
-        self.host='localhost'               #change it according your host name 
-        self.user='root'                    #change it according your host username
-        self.password='admin123'            #change these  passwords according yours 
-        self.database='raw'                 #change the name of database 
+      def __init__(self):
+          self.host='localhost'               #change it according your host name 
+          self.user='root'                    #change it according your host username
+          self.password='admin123'            #change these  passwords according yours 
+          self.database='raw'                 #change the name of database 
    ```
 
 3. **table**: In the next step you needto to open and run the file 'table.py' that help to create all required tables.
