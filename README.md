@@ -1,5 +1,5 @@
 ## Title of the project:
-#### Hotel Management System using python
+### Hotel Management System using python
 
 ## Description
 
