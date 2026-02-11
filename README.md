@@ -1,4 +1,4 @@
-## Title of the project:
+## Title of the project
 ### Hotel Management System using python
 
 ## Description
